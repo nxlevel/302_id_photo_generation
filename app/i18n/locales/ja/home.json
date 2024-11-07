@@ -1,0 +1,99 @@
+{
+  "background": {
+    "black": "黒",
+    "blue": "青",
+    "custom": "カスタマイズ",
+    "light_gray": "ライトグレー",
+    "red": "赤",
+    "white": "白"
+  },
+  "but_make": "作り始める",
+  "but_make_params": "生産パラメータ",
+  "cancel": "キャンセル",
+  "click_image": "または、ここをクリックして画像をアップロードしてください",
+  "continue": "もちろん",
+  "custom_size_error": "カスタム サイズ モードでは、幅と高さを 0 以下にすることはできません。",
+  "delete_data_tips": "現在のデータを削除してもよろしいですか?",
+  "delete_error": "データの削除に失敗しました",
+  "delete_success": "データは正常に削除されました",
+  "delete_text": "消去",
+  "drag_image": "ここに写真をドラッグアンドドロップします",
+  "empty_text": "まだ世代記録がありません",
+  "form": {
+    "background": {
+      "label": "背景色"
+    },
+    "facial_proportion": {
+      "label": "顔のプロポーション"
+    },
+    "headDistance": {
+      "label": "頭上距離"
+    },
+    "rendering_method": {
+      "label": "レンダリング方法"
+    },
+    "size": {
+      "label": "サイズ",
+      "placeholder": "サイズを選択してください"
+    },
+    "skin_whitening": {
+      "label": "美白強度"
+    },
+    "watermark": {
+      "spacing": "透かしの間隔",
+      "text_perspective": "テキストの角度",
+      "text_size": "文字サイズ",
+      "transparency": "透明性"
+    },
+    "watermark_text": {
+      "label": "透かしテキスト"
+    }
+  },
+  "generate": {
+    "error": "証明写真の生成に失敗しました"
+  },
+  "generated_ID_Photo": "証明写真を作成中です。。。",
+  "height": "長さ",
+  "high_definition_ID_photo": "ハイビジョン証明書写真",
+  "image_download_error": "画像のダウンロードに失敗しました",
+  "images_url_error": "写真をアップロードしてください",
+  "isUploadLoading": "写真がアップロードされています。 。 。",
+  "opacity_bg_img": "透明な背景図",
+  "photo_size": {
+    "background": "底を変えるだけ",
+    "custom": "カスタマイズ",
+    "one_inch": "1インチ"
+  },
+  "photo_size_US_visa": "米国ビザ",
+  "photo_size_computer_rank_examination": "コンピュータグレードの試験",
+  "photo_size_english": "CET-4 および CET-6",
+  "photo_size_five_inches": "5インチ",
+  "photo_size_graduate_student_entrance_examination": "大学院試験",
+  "photo_size_japanese_visa": "日本のビザ",
+  "photo_size_junior_accounting_exam": "会計ジュニア試験",
+  "photo_size_korean_visa": "韓国のビザ",
+  "photo_size_license": "電子運転免許証",
+  "photo_size_national_civil_service_examination": "国家公務員試験",
+  "photo_size_one_inch_larger": "1インチ大きい",
+  "photo_size_small_inch": "1インチ小さい",
+  "photo_size_social_security_card": "社会保障カード",
+  "photo_size_teacher_qualification_certificate": "教員資格証明書",
+  "photo_size_two_inches": "2インチ",
+  "photo_size_two_inches_in_size": "2インチ大きい",
+  "photo_size_two_inches_small": "小さい2インチ",
+  "rendering_method": {
+    "center_gradient": "中央のグラデーション",
+    "solid_color": "ソリッドカラー",
+    "up_and_down_gradient": "上下のグラデーション"
+  },
+  "six_inch_layout_photo": "6寸組み写真.",
+  "title": "証明写真の生成",
+  "upload_error": "画像のアップロードに失敗しました",
+  "watermark": {
+    "text": "透かしテキスト",
+    "text_errorMsg": "透かしテキストを入力してください",
+    "title": "透かしを追加する"
+  },
+  "watermarkText_tips": "透かし文字を入力してください",
+  "width": "幅"
+}

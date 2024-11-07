@@ -1,0 +1,99 @@
+{
+  "background": {
+    "black": "黑色",
+    "blue": "蓝色",
+    "custom": "自定义",
+    "light_gray": "浅灰色",
+    "red": "红色",
+    "white": "白色"
+  },
+  "but_make": "开始制作",
+  "but_make_params": "制作参数",
+  "cancel": "取消",
+  "click_image": "或者点击此处上传图片",
+  "continue": "确定",
+  "custom_size_error": "自定义尺寸模式，宽高不能小于等于0",
+  "delete_data_tips": "是否确定删除当前数据？",
+  "delete_error": "删除数据失败",
+  "delete_success": "删除数据成功",
+  "delete_text": "删除",
+  "drag_image": "将照片拖放到这里",
+  "empty_text": "暂无生成记录",
+  "form": {
+    "background": {
+      "label": "背景颜色"
+    },
+    "facial_proportion": {
+      "label": "脸部比例"
+    },
+    "headDistance": {
+      "label": "头顶距离"
+    },
+    "rendering_method": {
+      "label": "渲染方式"
+    },
+    "size": {
+      "label": "尺寸",
+      "placeholder": "请选择尺寸"
+    },
+    "skin_whitening": {
+      "label": "美白强度"
+    },
+    "watermark": {
+      "spacing": "水印间距",
+      "text_perspective": "文字角度",
+      "text_size": "文字大小",
+      "transparency": "透明度"
+    },
+    "watermark_text": {
+      "label": "水印文字"
+    }
+  },
+  "generate": {
+    "error": "证件照生成失败"
+  },
+  "generated_ID_Photo": "证件照生成中。。。",
+  "height": "长度",
+  "high_definition_ID_photo": "高清证件照",
+  "image_download_error": "图片下载失败",
+  "images_url_error": "请上传照片",
+  "isUploadLoading": "图片上传中。。。",
+  "opacity_bg_img": "透明背景图",
+  "photo_size": {
+    "background": "只换底",
+    "custom": "自定义",
+    "one_inch": "一寸"
+  },
+  "photo_size_US_visa": "美国签证",
+  "photo_size_computer_rank_examination": "计算机等级考试",
+  "photo_size_english": "英语四六级考试",
+  "photo_size_five_inches": "五寸",
+  "photo_size_graduate_student_entrance_examination": "研究生考试",
+  "photo_size_japanese_visa": "日本签证",
+  "photo_size_junior_accounting_exam": "初级会计考试",
+  "photo_size_korean_visa": "韩国签证",
+  "photo_size_license": "电子驾驶证",
+  "photo_size_national_civil_service_examination": "国家公务员考试",
+  "photo_size_one_inch_larger": "大一寸",
+  "photo_size_small_inch": "小一寸",
+  "photo_size_social_security_card": "社保卡",
+  "photo_size_teacher_qualification_certificate": "教师资格证",
+  "photo_size_two_inches": "二寸",
+  "photo_size_two_inches_in_size": "大二寸",
+  "photo_size_two_inches_small": "小二寸",
+  "rendering_method": {
+    "center_gradient": "中心渐变",
+    "solid_color": "纯色",
+    "up_and_down_gradient": "上下渐变"
+  },
+  "six_inch_layout_photo": "六寸排版照",
+  "title": "证件照生成",
+  "upload_error": "图片上传失败",
+  "watermark": {
+    "text": "水印文字",
+    "text_errorMsg": "请输入水印文字",
+    "title": "添加水印"
+  },
+  "watermarkText_tips": "请输入水印文字",
+  "width": "宽度"
+}
