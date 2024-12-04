@@ -2,7 +2,7 @@
 
 <p align="center">AI证件照生成可以快速对照片进行抠图，生成纯色、渐变等多种背景色的证件照以及用于打印的排版照片。</p>
 
-<p align="center"><a href="https://302.ai/tools/word/" target="blank"><img src="https://file.302ai.cn/gpt/imgs/badge/21212.png" /></a></p >
+<p align="center"><a href="https://302.ai/tools/word/" target="blank"><img src="https://file.302ai.cn/gpt/imgs/github/302_badge.png" /></a></p >
 
 <p align="center"><a href="README zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
@@ -12,7 +12,8 @@
 或者对本项目根据自己的需求进行修改，传入302.AI的API KEY，自行部署。
 
 ## 界面预览
-![界面预览](docs/preview.jpg)
+根据上传的图片进行抠图，可生成多种背景色的证件照以及用于打印的排版照片。
+![界面预览](docs/证件照1.png)
 
 ## 项目特性
 ### 🖼️ 图像生成选项
