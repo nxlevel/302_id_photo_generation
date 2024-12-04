@@ -6,6 +6,8 @@
 
 <p align="center"><a href="README zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
+![インターフェースプレビュー](docs/证件照生成jp.png)
+
 [302.AI](https://302.ai)からの[AI証明写真生成](https://302.ai/tools/idphotos/)オープンソース版です。
 直接302.AIにログインして、コード不要でオンラインバージョンを使用できます。
 または、このプロジェクトを必要に応じて修正し、302.AIのAPI KEYを入力して自分でデプロイできます。
