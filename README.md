@@ -6,6 +6,8 @@
 
 <p align="center"><a href="README zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
+![Interface Preview](docs/证件照生成en.png)
+
 The open-source version of [AI ID Photo Generator](https://302.ai/tools/idphotos/) from [302.AI](https://302.ai).
 You can directly access 302.AI for a no-code, no-configuration online version.
 Alternatively, modify this project according to your needs by providing an API KEY from 302.AI and deploy it yourself.
