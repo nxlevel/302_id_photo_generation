@@ -1,4 +1,5 @@
-# 💻🤖 Welcome to 302.AI's AI ID Photo Generator! 🚀✨
+# <p align="center">📷 AI ID Photo Generator 🚀✨</p>
+
 
 [中文](README_zh.md) | [English](README.md) | [日本語](README_ja.md)
 
@@ -32,11 +33,12 @@ Alternatively, modify this project according to your needs by providing an API K
    - Face Ratio: Adjusts the ratio of face size to photo size.
    - Top Distance: Fine-tunes the distance from the top of the photo to the head.
 
-5. 💧 Watermark Customization: Allows for setting watermark text size, opacity, angle, color, and spacing.
+5. 💧 Watermark Customization
+Allows for setting watermark text size, opacity, angle, color, and spacing.
 
-6. 🌙 Eye-Friendly Dark Mode: Provides a dark mode to protect your eye health.
+7. 🌙 Eye-Friendly Dark Mode: Provides a dark mode to protect your eye health.
 
-7. 🌐 Full Internationalization: Supports interface switching between Chinese, English, and Japanese.
+8. 🌐 Full Internationalization: Supports interface switching between Chinese, English, and Japanese.
 
 By generating AI ID photos, we can automatically create high-quality standard ID photos, offer personalized customization, and quickly meet diverse needs. 🎉💻 Let's explore the new world of AI-driven code together! 🌟🚀
 
@@ -53,4 +55,5 @@ By generating AI ID photos, we can automatically create high-quality standard ID
 5. Build and deploy `docker build -t coder-generator . && docker run -p 3000:3000 coder-generator`
 
 ## Interface Preview
-![Interface Preview](docs/preview.jpg)
+
+![Interface Preview](docs/证件照2.png)
