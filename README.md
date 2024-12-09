@@ -65,7 +65,7 @@ By generating AI ID photos, we can automatically create high-quality standard ID
 
 
 ## ✨ Introduction to 302.AI ✨
-[302.AI](https://302.ai) is a pay-as-you-go AI application platform that addresses the last mile of AI implementation for practical use.
+[302.AI](https://302.ai) is an enterprise-oriented AI application platform that offers pay-as-you-go services, ready-to-use solutions, and an open-source ecosystem.✨
 1. 🧠 Offers the latest and most complete AI capabilities, including but not limited to language models, image models, sound models, and video models.
 2. 🚀 Develops deep applications on base models, creating real AI products beyond simple chatbots.
 3. 💰 No monthly fees, all features are pay-as-you-go, fully open, ensuring low entry barriers and high ceilings.
