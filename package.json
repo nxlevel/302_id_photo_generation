@@ -28,7 +28,6 @@
     "ahooks": "^3.8.1",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
-    "color-selector-react": "0.3.0-beta.4",
     "cross-env": "^7.0.3",
     "dayjs": "^1.11.13",
     "fs": "0.0.1-security",
